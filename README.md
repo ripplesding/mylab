@@ -3,6 +3,7 @@ labs I prefer
 ## csapp
 ### datalab
 > logicNeg
+
   logicNeg(0b11)=0  return 0 if exists 1
   logicNeg(0b00)=1  return 1 if all zero
   what is all zero 
